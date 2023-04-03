@@ -1,5 +1,8 @@
 # canis-app
 
+This is a Flask deployment for the DistilBERT model fine-tuned on the dataset provided as part of the CANIS 2023 Hackathon
+
+
 To run this flask application, simply clone this repository and run the "app.py" file. You can run using this following command: python app.py
 
 Prerequisites:
